@@ -1,2 +1,2 @@
 # spletnoProgramiranje
-Seminarska naloga - RST - Spletno programiranje 2
+Seminarska naloga - RST - Spletno programiranje 1
