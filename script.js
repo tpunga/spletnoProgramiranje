@@ -59,16 +59,7 @@
     const kvizContainer = document.getElementById('kviz');
     const rezultatiContainer = document.getElementById('rezultati');
     const gumbOddaj = document.getElementById ('oddaj');
-    const covidVprasanja = [
-    {
-        vprasanje: "Kakšne vrste virus je COVID-19?",
-        odgovori: {
-            a: "Nevrološka bolezen",
-            b: "Respiratorna bolezen",
-        },
-        pravilenOdgovor: "b"                
-    
-    },
+    const covidVprasanja = [    
     {
         vprasanje: "Kateri od simptomov ni eden od ključnih simptomov Covid-19?",
         odgovori: {
